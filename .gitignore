@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML artifacts
+artifacts/
+*.h5
+*.pt
+*.pth
+
+# TensorBoard logs
+logs/
+runs/
+
+# Environment variables
+.env
